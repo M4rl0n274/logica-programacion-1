@@ -42,12 +42,12 @@ Si los números ingresados son **iguales**, se mostrará:
 Los tres números son iguales.
 ```
 
-## 💻 Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 - **JavaScript**
 - **HTML & CSS** (para la interfaz)
 
 
-## 💪 Autor
+##  Autor
 Desarrollado por **Marlon274**.
 
 
