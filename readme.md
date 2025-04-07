@@ -1,4 +1,4 @@
-#  Lógica de Programación - Ejercicio 1
+#  Lógica de Programación - Comparación de números
 
 Este repositorio contiene la resolución de un ejercicio de lógica de programación en **JavaScript**. El programa solicita tres números al usuario y los analiza para ordenarlos y determinar si son iguales.
 
@@ -49,7 +49,6 @@ Los tres números son iguales.
 
 ## 💪 Autor
 Desarrollado por **Marlon274**.
-
 
 ---
 _¡Si te gustó este proyecto, no olvides dejar una estrella en el repositorio! ⭐_
